@@ -1,0 +1,16 @@
+{
+  "headless": false,
+  "cooldownBetweenAccounts": {
+    "min": 300000,
+    "max": 600000
+  },
+  "cooldownBetweenVideos": {
+    "min": 30000,
+    "max": 90000
+  },
+  "typingDelay": {
+    "min": 50,
+    "max": 150
+  },
+  "maxVideosPerKeyword": 20
+}

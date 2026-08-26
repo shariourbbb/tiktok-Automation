@@ -1,0 +1,22 @@
+{
+  "name": "tiktok-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
+    "openai": "^6.44.0",
+    "playwright": "^1.61.0",
+    "sharp": "^0.35.1",
+    "uuid": "^10.0.0"
+  }
+}

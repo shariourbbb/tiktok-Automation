@@ -1,0 +1,10 @@
+node_modules/
+.env
+admin/node_modules/
+admin/client/node_modules/
+admin/client/dist/
+admin/uploads/*
+!admin/uploads/.gitkeep
+sessions/*
+!sessions/.gitkeep
+*.log
